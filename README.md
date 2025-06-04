@@ -1,17 +1,15 @@
 <h1 align="center">Hey there 👋, I'm Kvvvvvvvvv</h1>
 <h3 align="center">Aspiring Cybersecurity Specialist | Ethical Hacking Enthusiast | CSE Undergrad</h3>
 
-<br/>
-
----
-
-### 👨‍💻 About Me
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/07/2f/18/072f186986d65caa8a15e7c5319d81f6.gif" alt="Hacker at work" width="450"/>
 </p>
 
 <br/>
+
+---
+
+### 👨‍💻 About Me
 
 - 👀 I’m passionate about **Ethical Hacking** and **Cybersecurity**  
 - 🎓 Currently pursuing **B.Tech in Computer Science and Engineering**  
