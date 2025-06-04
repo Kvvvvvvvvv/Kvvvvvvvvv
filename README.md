@@ -13,7 +13,10 @@
 - 😄 Pronouns: He/Him
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyoz/pentest-icons/main/hacker.gif" alt="Hacker at work" width="500"/>
+</p>
+---
 ### 🧰 Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
