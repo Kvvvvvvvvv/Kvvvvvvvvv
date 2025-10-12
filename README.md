@@ -1,16 +1,16 @@
-<!-- README.md for Kvvvvvvvvv (drop into repo root) -->
+<!-- README.md for Kvvvvvvvvv (refined version) -->
 
 <h1 align="center">Hey there 👋, I'm Kvvvvvvvvv</h1>
 <h3 align="center">Aspiring Cybersecurity Specialist | Ethical Hacking Enthusiast | CSE Undergrad</h3>
 
 <p align="center">
-  <!-- Animated GIF (keep or replace) -->
+  <!-- Animated GIF -->
   <img src="https://i.pinimg.com/originals/07/2f/18/072f186986d65caa8a15e7c5319d81f6.gif" alt="Hacker at work" width="420"/>
 </p>
 
 ---
 
-<!-- ---------- Hero / Banner (replace banner1.png with your banner image) ---------- -->
+<!-- ---------- Hero Banner ---------- -->
 <p align="center">
   <img src="./banner1.png" alt="banner" style="max-width:100%; border-radius:6px; box-shadow: 0 6px 18px rgba(0,0,0,0.6)"/>
 </p>
@@ -40,10 +40,7 @@
 
 ## 🧰 Tech Arsenal
 
-> Grouped, visually tidy stack list — Cybersecurity tools first, then Full-stack / AI / DB / DevOps
-
 <p align="center">
-  <!-- Cybersecurity -->
   <strong>Cybersecurity</strong><br/>
   <img alt="Kali" src="https://img.shields.io/badge/Kali-Linux-111827?style=for-the-badge&logo=kali-linux&logoColor=white" /> 
   <img alt="Nmap" src="https://img.shields.io/badge/Nmap-2C3E50?style=for-the-badge&logo=nmap&logoColor=white" />
@@ -53,8 +50,7 @@
 </p>
 
 <p align="center">
-  <!-- Full-stack & Frontend -->
-  <strong>Full-stack & Frontend</strong><br/>
+  <strong>Stack</strong><br/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -63,17 +59,15 @@
 </p>
 
 <p align="center">
-  <!-- AI/ML -->
-  <strong>AI / ML (basics)</strong><br/>
+  <strong>AI / ML</strong><br/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img alt="scikit" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <!-- Databases & Tools -->
-  <strong>Databases, Tools & DevOps</strong><br/>
+  <strong>Databases & DevOps</strong><br/>
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -85,7 +79,6 @@
 ## 📬 Connect with Me
 
 <p align="center">
-  <!-- Use shields as buttons; replace links -->
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:keerthivasaneofficial@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>
   <a href="https://www.kaggle.com/your-kaggle" target="_blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
@@ -105,40 +98,30 @@
 
 ---
 
-<!-- ---------- Personality / Coding hours / Coffee Cards ---------- -->
-<table width="100%">
-  <tr>
-    <td align="center" width="33%" style="padding:18px;">
-      <h3>🎭 Personality Type</h3>
-      <em>"The Architect meets The Entertainer"</em>
-      <p>I build systems with a smile</p>
-    </td>
-    <td align="center" width="33%" style="padding:18px;">
-      <h3>⏱️ Coding Hours</h3>
-      <em>Peak productivity: 10 PM - 2 AM</em>
-      <p>When bugs fear me the most</p>
-    </td>
-    <td align="center" width="33%" style="padding:18px;">
-      <h3>☕ Coffee Dependency</h3>
-      <em>Fueled by caffeine & curiosity</em>
-      <p><code>console.log("Need coffee!")</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ---------- Reference images from your uploaded screenshots ---------- -->
+<!-- ---------- Personality / Coding hours / Coffee Cards (center aligned) ---------- -->
 <p align="center">
-  <!-- Replace these with actual filenames in repo root if you want them displayed -->
-  <img src="./ref-1.png" alt="ref1" style="height:120px; margin:6px;"/>
-  <img src="./ref-2.png" alt="ref2" style="height:120px; margin:6px;"/>
-  <img src="./ref-3.png" alt="ref3" style="height:120px; margin:6px;"/>
+
+  <img src="https://em-content.zobj.net/thumbs/120/apple/354/performing-arts_1f3ad.png" width="32"/>
+  <h3>🎭 Personality Type</h3>
+  <em>"The Architect meets The Entertainer"</em><br/>
+  <p>I build systems with a smile</p>
+  <br/>
+
+  <img src="https://em-content.zobj.net/thumbs/120/apple/354/alarm-clock_23f0.png" width="32"/>
+  <h3>⏱️ Coding Hours</h3>
+  <em>Peak productivity: 10 PM - 2 AM</em><br/>
+  <p>When bugs fear me the most</p>
+  <br/>
+
+  <img src="https://em-content.zobj.net/thumbs/120/apple/354/hot-beverage_2615.png" width="32"/>
+  <h3>☕ Coffee Dependency</h3>
+  <em>Fueled by caffeine & curiosity</em><br/>
+  <p><code>console.log("Need coffee!")</code></p>
 </p>
 
 ---
 
-<!-- ---------- Footer: gradient wave (SVG) ---------- -->
+<!-- ---------- Footer Gradient ---------- -->
 <p align="center">
   <svg viewBox="0 0 1200 120" preserveAspectRatio="none" style="width:100%; height:80px;">
     <defs>
