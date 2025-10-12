@@ -9,7 +9,6 @@
 ---
 
 ## 🚀 About Me
-<center>
   ```yaml
 name: Keerthivasan E
 located_in: Tamil Nadu, India
@@ -35,7 +34,6 @@ hobbies:
   - Security Research & Blogging
 ```
 
-</center>
 
 ### 📫 Reach Out To Me
 
