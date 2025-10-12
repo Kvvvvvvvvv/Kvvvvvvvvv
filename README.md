@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Blockchain" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```yaml
 name: Keerthivasan E
@@ -33,7 +33,6 @@ currently_learning:
 
 hobbies:
   - Capture The Flag Competitions
-  - Bug Bounty Hunting
   - Building Secure DApps
   - Security Research & Blogging
 ```
@@ -177,7 +176,7 @@ Building decentralized voting platform:
 | **CTF Challenges Completed** | ✅ **50+ Challenges** Across Multiple Categories |
 
 ### 💪 Strengths
-`Cryptography` • `Web Exploitation` • `Binary Exploitation` • `Forensics` • `Reverse Engineering` • `OSINT`
+`Cryptography` • `Web Exploitation` • `Forensics` • `OSINT`
 
 ---
 
@@ -191,8 +190,6 @@ Building decentralized voting platform:
 
 **Certified Network Engineer**
 
-*ISO Organization*
-
 Core networking fundamentals, protocols, and security
 
 </td>
@@ -202,8 +199,6 @@ Core networking fundamentals, protocols, and security
 
 **IBM Cybersecurity**
 
-*IBM Professional Certificate*
-
 Security analysis, threat detection, and incident response
 
 </td>
@@ -212,8 +207,6 @@ Security analysis, threat detection, and incident response
 ![Python Diploma](https://img.shields.io/badge/Diploma-Python_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Diploma in Python**
-
-*Professional Institute*
 
 Advanced Python for cybersecurity and development
 
@@ -314,27 +307,40 @@ When the code flows and bugs fear me the most
 > *"In a world of 1s and 0s, I choose to be the firewall protecting what matters."*
 
 **Short-term Goals:**
-- 🎯 Complete 10+ CTF competitions in 2025
-- 🔐 Contribute to open-source security projects
-- ⛓️ Launch 2 production-ready DApps
-- 📜 Obtain CEH and OSCP certifications
+
+🎯 Complete 10+ CTF competitions in 2025
+
+🔐 Contribute to open-source security projects
+
+⛓️ Launch 2 production-ready DApps
+
+📜 Obtain CEH and OSCP certifications
 
 **Long-term Vision:**
-- 🌐 Build a career in offensive security and blockchain
-- 🛡️ Develop innovative security solutions for Web3
-- 📚 Share knowledge through blogs and mentorship
-- 🚀 Lead security audits for major DeFi protocols
+
+🌐 Build a career in offensive security and blockchain
+
+🛡️ Develop innovative security solutions for Web3
+
+📚 Share knowledge through blogs and mentorship
+
+🚀 Lead security audits for major DeFi protocols
 
 ---
 
 ## 🤝 Let's Connect & Collaborate!
 
 **I'm always open to:**
-- 🔐 Cybersecurity Projects & Collaborations
-- ⛓️ Blockchain Development Opportunities
-- 🎯 CTF Teams & Competitions
-- 💡 Open Source Contributions
-- 🗣️ Tech Discussions & Knowledge Sharing
+
+🔐 Cybersecurity Projects & Collaborations
+
+⛓️ Blockchain Development Opportunities
+
+🎯 CTF Teams & Competitions
+
+💡 Open Source Contributions
+
+🗣️ Tech Discussions & Knowledge Sharing
 
 ### 📬 Drop me a message!
 
