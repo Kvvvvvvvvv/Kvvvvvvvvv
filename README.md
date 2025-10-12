@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Keerthivasan E
 
-### 🔐 Cybersecurity Specialist | 🎯 Ethical Hacker | ⛓️ Blockchain Developer | 💻 CSE Undergrad
+### 🔐 Cybersecurity Enthusiast | 🎯 Ethical Hacker | ⛓️ Blockchain Developer | 💻 CSE Undergrad
 
 <img src="https://i.pinimg.com/originals/07/2f/18/072f186986d65caa8a15e7c5319d81f6.gif" alt="Hacker at work" width="500"/>
 
