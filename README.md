@@ -9,8 +9,8 @@
 ---
 
 ## 🚀 About Me
-
-```yaml
+<center>
+  ```yaml
 name: Keerthivasan E
 located_in: Tamil Nadu, India
 current_status: CSE Undergraduate
@@ -34,6 +34,8 @@ hobbies:
   - Building Secure DApps
   - Security Research & Blogging
 ```
+
+</center>
 
 ### 📫 Reach Out To Me
 
