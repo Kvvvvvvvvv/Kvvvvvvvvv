@@ -300,31 +300,10 @@ When the code flows and bugs fear me the most
 
 ---
 
-## 🎯 Vision & Goals
 
 > *"In a world of 1s and 0s, I choose to be the firewall protecting what matters."*
 
-**Short-term Goals:**
 
-🎯 Complete 10+ CTF competitions in 2025
-
-🔐 Contribute to open-source security projects
-
-⛓️ Launch 2 production-ready DApps
-
-📜 Obtain CEH and OSCP certifications
-
-**Long-term Vision:**
-
-🌐 Build a career in offensive security and blockchain
-
-🛡️ Develop innovative security solutions for Web3
-
-📚 Share knowledge through blogs and mentorship
-
-🚀 Lead security audits for major DeFi protocols
-
----
 
 ## 🤝 Let's Connect & Collaborate!
 
