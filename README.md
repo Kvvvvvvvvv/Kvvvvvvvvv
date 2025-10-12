@@ -10,8 +10,6 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Blockchain" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 ```yaml
 name: Keerthivasan E
 located_in: Tamil Nadu, India
@@ -52,8 +50,6 @@ hobbies:
 
 ### 🔒 Cybersecurity & Ethical Hacking
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN5dTBxZjJ5cWVjOHE3Ynp1cXZ3bzZmcW5wZGRxaW1sY3h1ZWpkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="100%"/>
-
 **Core Skills:**
 - 🎯 Penetration Testing & Exploitation
 - 🔍 Vulnerability Assessment & Analysis  
@@ -69,12 +65,12 @@ hobbies:
 - OWASP ZAP, Nikto
 - John the Ripper, Hashcat
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN5dTBxZjJ5cWVjOHE3Ynp1cXZ3bzZmcW5wZGRxaW1sY3h1ZWpkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="100%"/>
+
 </td>
 <td width="50%" valign="top">
 
 ### ⛓️ Blockchain & Web3 Development
-
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*z1c6FtPYa6KA5TGouVV02Q.gif" width="100%"/>
 
 **Core Skills:**
 - 📜 Smart Contract Development (Solidity)
@@ -90,6 +86,8 @@ hobbies:
 - MetaMask, Web3 Wallets
 - IPFS, The Graph
 - OpenZeppelin Libraries
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
 </td>
 </tr>
