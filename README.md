@@ -205,7 +205,6 @@ Custom penetration testing automation scripts
 | **🥇 Champion** | **Crypto Puzzler CTF 2024** - Top cryptography solver |
 | **⭐ Top 5** | **HackSky CTF** - Competed against 500+ teams |
 | **✅ 50+ Solves** | **CTF Challenges** - Crypto, Web, Forensics, Reverse Engineering |
-| **🎓 Certified** | **IBM Cybersecurity** - Professional certification |
 | **🌐 Network Pro** | **Certified Network Engineer** - Advanced networking |
 | **🐍 Python Expert** | **Diploma in Python Programming** - Advanced development |
 
@@ -227,46 +226,8 @@ Custom penetration testing automation scripts
 
 ---
 
-## 📜 Certifications & Training
-
-<div align="center">
-
-```yaml
-Professional Certifications:
-  - IBM Cybersecurity Fundamentals
-    Status: Certified
-    Focus: Security Principles, Threat Analysis, Risk Management
-    
-  - Certified Network Engineer
-    Status: Certified
-    Focus: Network Architecture, Security, Protocol Analysis
-    
-  - Diploma in Python Programming
-    Status: Completed
-    Focus: Advanced Python, Security Scripting, Automation
-
-Continuous Learning:
-  - TryHackMe Active User (Keerthivasan1310)
-  - HackTheBox Practice Labs
-  - OWASP Security Training
-  - Smart Contract Security Best Practices
-```
-
-</div>
-
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)
-
-</div>
 
 ---
 
