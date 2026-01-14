@@ -193,7 +193,6 @@ and open-source contributions and discussions.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 
-**⭐ If you find my work interesting, consider starring my repositories!**
 
 
 </div>
