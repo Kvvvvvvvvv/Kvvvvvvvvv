@@ -11,10 +11,10 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://i.pinimg.com/originals/07/2f/18/072f186986d65caa8a15e7c5319d81f6.gif" width="400" height="280"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360"/>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="280"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="360"/>
 </td>
 </tr>
 </table>
@@ -112,86 +112,14 @@ class Keerthivasan:
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏦 DeFi Loan Application
-Decentralized lending platform with collateral management and dynamic interest rates
-
-**Tech Stack:**
-- Solidity (Smart Contracts)
-- Hardhat (Development)
-- React + Web3.js (Frontend)
-- Ethereum Blockchain
-
-**Features:**
-- ✅ Automated loan processing
-- ✅ Collateral tracking
-- ✅ Interest rate calculation
-- ✅ Secure fund transfers
-
-</td>
-<td width="50%">
-
-### 🗳️ Blockchain Voting System
-Transparent and tamper-proof decentralized voting platform
-
-**Tech Stack:**
-- Solidity
-- Cryptography
-- Web3
-- IPFS
-
-**Features:**
-- ✅ Anonymous voting
-- ✅ Immutable records
-- ✅ Real-time results
-- ✅ Voter verification
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📡 Network Traffic Analyzer
-Live packet capture and anomaly detection system
-
-**Tech Stack:**
-- Python
-- Scapy
-- Wireshark
-- ML Algorithms
-
-**Features:**
-- ✅ Real-time monitoring
-- ✅ Threat detection
-- ✅ Protocol analysis
-- ✅ Alert system
-
-</td>
-<td width="50%">
-
-### 🔐 Security Audit Tools
-Custom penetration testing automation scripts
-
-**Tech Stack:**
-- Python
-- Bash
-- Various security APIs
-
-**Features:**
-- ✅ Automated recon
-- ✅ Vulnerability scanning
-- ✅ Report generation
-- ✅ Custom exploits
-
-</td>
-</tr>
-</table>
+| Project | What it does | Tech Stack | Focus Area |
+|-------|-------------|------------|------------|
+| **🏦 DeFi Loan Application** | On-chain collateralized lending with interest logic | Solidity, Hardhat, React, Web3.js | Smart contract logic, DeFi security |
+| **🗳️ Blockchain Voting System** | Tamper-resistant voting with transparent counting | Solidity, Web3, Cryptography, IPFS | Data integrity, anonymity |
+| **📡 Network Traffic Analyzer** | Live packet capture and anomaly identification | Python, Scapy, Wireshark | Packet analysis, threat detection |
+| **🔐 Security Automation Scripts** | Automated recon and vulnerability checks | Python, Bash | Recon workflows, scan automation |
 
 ---
 
@@ -241,18 +169,17 @@ Custom penetration testing automation scripts
 
 <br/>
 
-### 💬 Let's Collaborate!
+<div align="center">
 
-I'm always open to:
-- 🔐 **Security Research Projects**
-- ⛓️ **Blockchain Development**
-- 🤝 **CTF Team Collaborations**
-- 💼 **Freelance Security Audits**
-- 🎓 **Knowledge Sharing & Mentorship**
+### 💬 Let’s Connect
+
+I’m open to cybersecurity and security research projects,  
+blockchain and Web3 development,  
+CTF teams and technical collaborations,  
+learning, knowledge sharing, and mentorship,  
+and open-source contributions and discussions.
 
 </div>
-
----
 
 <div align="center">
 
@@ -268,6 +195,5 @@ I'm always open to:
 
 **⭐ If you find my work interesting, consider starring my repositories!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
