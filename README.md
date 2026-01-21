@@ -129,7 +129,7 @@ class Keerthivasan:
 
 | 🥇 Achievement | 🎯 Details |
 |:---:|:---|
-| **🏆 1st Place** | **Glytch Hackathon** - Built winning blockchain solution |
+| **🏆 1st Place** | **Glytch Hackathon** - Built winning AI-REHUB solution |
 | **🥇 Champion** | **Crypto Puzzler CTF 2024** - Top cryptography solver |
 | **⭐ Top 5** | **HackSky CTF** - Competed against 500+ teams |
 | **✅ 50+ Solves** | **CTF Challenges** - Crypto, Web, Forensics, Reverse Engineering |
